@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-verification: data verification model.
 //!
 //! Real implementation: checks, signatures, hashes, and validation.
